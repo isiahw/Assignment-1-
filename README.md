@@ -1,5 +1,5 @@
 # Assignment-1-
-Assignment for Class Work on April 2, 2022
+
 let nameFull="John Doe";
 let email="JD@gmail.com";
 let password="April2";
